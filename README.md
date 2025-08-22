@@ -17,19 +17,15 @@ Objectives
 # Financial Analysis Reports
 1. Customer Net Sales Performance Report
 
-Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+  - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
 2. Market Net Sales Performance Report
 
-Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+  - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
 
 3. Yearly Profit and Loss (P&L) Report
 
-Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
+ - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 
 
-Top and Bottom 5 Products: Focus on both high-performing and underperforming products for strategic adjustments.
-Division Level Report: Impressive growth in the PC division, with substantial revenue increases.
-Profit and Loss Reports: Detailed assessment of financial health across various dimensions.
-Profit and Loss Reports by Markets: Insights into profitability across different regions, informing future strategies.
-Gross Margin % by Quarter: Understanding of regional performance changes, aiding in decision-making.
+
 This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
